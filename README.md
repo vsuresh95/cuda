@@ -1,1 +1,1 @@
-# cuda
+# cuda-crashcourse
